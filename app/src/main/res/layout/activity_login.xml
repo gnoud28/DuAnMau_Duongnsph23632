@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ĐĂNG NHẬP"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="#071A80"
+        android:gravity="center"
+        android:layout_marginTop="100dp"/>
+
+    <EditText
+        android:background="@drawable/custom_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:drawableStart="@drawable/custom_tendn_focus"
+        android:drawablePadding="10dp"
+        android:padding="10dp"
+        android:id="@+id/tv_tendn"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="10dp"
+        android:hint="Nhập Username"/>
+
+
+    <EditText
+        android:background="@drawable/custom_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/tv_mkhau"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="10dp"
+        android:hint="Nhập password"
+        android:inputType="textPassword"
+        android:drawableStart="@drawable/custom_mkhau_focus"
+        android:drawablePadding="10dp"
+        android:padding="10dp"/>
+
+
+    <Button
+        android:background="@drawable/custom_btn_login"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/btn_login"
+        android:layout_marginTop="15dp"
+        android:text="Login"
+        android:textColor="@color/white"/>
+
+<!--    <ImageView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:src="@drawable/dnhap"/>-->
+
+
+</LinearLayout>

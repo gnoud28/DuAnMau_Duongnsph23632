@@ -1,0 +1,49 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/custom_btn_login.xml" value="0.1205" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/custom_edittext.xml" value="0.1205" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/custom_login_focus.xml" value="0.135" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/custom_mkhau_focus.xml" value="0.135" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.177" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.135" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/ic_baseline_lock_24_focus.xml" value="0.135" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.135" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.135" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/ic_baseline_person_24_focus.xml" value="0.135" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/drawable/ic_baseline_supervisor_account_24.xml" value="0.177" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/activity_man_hinh_chao.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/dialog_doi_mkhua.xml" value="0.1408514492753623" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/dialog_sua_loaisach.xml" value="0.14266304347826086" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/dialog_sua_phieumuon.xml" value="0.2427536231884058" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/dialog_sua_sach.xml" value="0.10099637681159421" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/dialog_sua_tvien.xml" value="0.14628623188405798" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/dialog_them_phieumuon.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/dialog_them_sach.xml" value="0.16893115942028986" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/dialog_them_tvien.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.12360688956433637" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/fragment_loai_sach.xml" value="0.1160081053698075" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/fragment_phieu_muon.xml" value="0.13949275362318841" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/fragment_sach.xml" value="0.2" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/fragment_thanh_vien.xml" value="0.1160081053698075" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/fragment_top_10_.xml" value="0.17447916666666666" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/header_layout_nav.xml" value="0.13949275362318841" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/item_loai_sach.xml" value="0.2" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/item_phieu_muon.xml" value="0.2" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/item_sach.xml" value="0.17119565217391305" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/item_thanh_vien.xml" value="0.17119565217391305" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/layout/item_top10.xml" value="0.17447916666666666" />
+        <entry key="..\:/Documents/DuAnMau_MOB2041/app/src/main/res/menu/menu_nav.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

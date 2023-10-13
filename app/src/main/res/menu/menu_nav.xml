@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/phieumuon"
+            android:title="Quản lý Phiếu Mượn"
+            android:icon="@drawable/ic_baseline_sticky_note_2_24"/>
+
+        <item
+            android:id="@+id/loaisach"
+            android:title="Quản lý Loại Sách"
+            android:icon="@drawable/ic_baseline_book_24"/>
+
+        <item
+            android:id="@+id/sach"
+            android:title="Quản lý Sách"
+            android:icon="@drawable/ic_baseline_menu_book_24"/>
+
+        <item
+            android:id="@+id/thanhvien"
+            android:title="Quản lý Thành Viên"
+            android:icon="@drawable/ic_baseline_supervisor_account_24"/>
+
+    </group>
+
+    <item android:title="@string/thongke">
+        <menu>
+            <item
+                android:id="@+id/top"
+                android:title="Top 10 sách mượn nhiều nhất"
+                android:icon="@drawable/ic_baseline_vertical_align_top_24"/>
+
+            <item
+                android:id="@+id/doanhthu"
+                android:title="Doanh thu"
+                android:icon="@drawable/ic_baseline_attach_money_24"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/nguoidung">
+        <menu>
+            <item
+                android:id="@+id/doiMK"
+                android:title="Đổi mật khẩu"
+                android:icon="@drawable/ic_baseline_vpn_key_24"/>
+
+            <item
+                android:id="@+id/dangxuat"
+                android:title="Đăng xuất"
+                android:icon="@drawable/ic_baseline_logout_24"/>
+        </menu>
+    </item>
+</menu>
